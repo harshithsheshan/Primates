@@ -1,0 +1,74 @@
+____________________________________________________________________________________________________ 
+Welcome to Jungle Friends Sanctuary.Sanctuary
+ 
+____________________________________________________________________________________________________ 
+Functionality 1 
+1. Display Species alphabetically 
+
+Name: John, Species: Langur, Id: 0, sex: MALE, weight: 20.00 location type: 1,Location: 3,favourite Food: FRUITS
+Name: Donald, Species: Langur, Id: 3, sex: MALE, weight: 18.00 location type: 2,Location: 2,favourite Food: FRUITS
+Name: Jack, Species: Langur, Id: 4, sex: MALE, weight: 30.00 location type: 2,Location: 2,favourite Food: INSECTS
+Name: Tom, Species: Langur, Id: 5, sex: MALE, weight: 24.00 location type: 2,Location: 2,favourite Food: FRUITS
+Name: Hower, Species: Macau, Id: 1, sex: FEMALE, weight: 10.00 location type: 1,Location: 2,favourite Food: TREE_SAP
+Name: Paul, Species: Macau, Id: 2, sex: MALE, weight: 5.00 location type: 1,Location: 1,favourite Food: NUTS
+ 
+____________________________________________________________________________________________________ 
+Functionality 2 
+2. Search for a Species 
+
+Name: John, Species: Langur, Id: 0, sex: MALE, weight: 20.00 location type: 1,Location: 3,favourite Food: FRUITS
+Name: Donald, Species: Langur, Id: 3, sex: MALE, weight: 18.00 location type: 2,Location: 2,favourite Food: FRUITS
+Name: Jack, Species: Langur, Id: 4, sex: MALE, weight: 30.00 location type: 2,Location: 2,favourite Food: INSECTS
+Name: Tom, Species: Langur, Id: 5, sex: MALE, weight: 24.00 location type: 2,Location: 2,favourite Food: FRUITS
+ 
+____________________________________________________________________________________________________ 
+Functionality 3 
+3. Create Sign 
+
+Sign for Location Type: 2 Location : 2 /n
+**Name: Donald sex: MALE Favourite Food: FRUITS Species: Langur** 
+
+**Name: Jack sex: MALE Favourite Food: INSECTS Species: Langur** 
+
+**Name: Tom sex: MALE Favourite Food: FRUITS Species: Langur** 
+
+ 
+____________________________________________________________________________________________________ 
+Functionality 4 
+4. Display Names alphabetically 
+
+Name: Donald, Species: Langur, Id: 3, sex: MALE, weight: 18.00 location type: 2,Location: 2,favourite Food: FRUITS
+Name: Hower, Species: Macau, Id: 1, sex: FEMALE, weight: 10.00 location type: 1,Location: 2,favourite Food: TREE_SAP
+Name: Jack, Species: Langur, Id: 4, sex: MALE, weight: 30.00 location type: 2,Location: 2,favourite Food: INSECTS
+Name: John, Species: Langur, Id: 0, sex: MALE, weight: 20.00 location type: 1,Location: 3,favourite Food: FRUITS
+Name: Paul, Species: Macau, Id: 2, sex: MALE, weight: 5.00 location type: 1,Location: 1,favourite Food: NUTS
+Name: Tom, Species: Langur, Id: 5, sex: MALE, weight: 24.00 location type: 2,Location: 2,favourite Food: FRUITS
+ 
+____________________________________________________________________________________________________ 
+Functionality 5 
+5. Create a Shopping list 
+
+{FRUITS=750.0, NUTS=250.0, TREE_SAP=250.0, INSECTS=250.0}
+ 
+____________________________________________________________________________________________________ 
+Functionality 6 
+6. Move Sanctuary.Monkey from Isolation to Enclosure. 
+
+Moving Sanctuary.Monkey from Isolation location 3 to Enclosure
+
+Sanctuary.Monkey found at 2
+
+[Name: Donald, Species: Langur, Id: 3, sex: MALE, weight: 18.00 location type: 2,Location: 1,favourite Food: FRUITS, Name: Jack, Species: Langur, Id: 4, sex: MALE, weight: 30.00 location type: 2,Location: 2,favourite Food: INSECTS, Name: John, Species: Langur, Id: 0, sex: MALE, weight: 20.00 location type: 1,Location: 3,favourite Food: FRUITS, Name: Tom, Species: Langur, Id: 5, sex: MALE, weight: 24.00 location type: 2,Location: 2,favourite Food: FRUITS, Name: Hower, Species: Macau, Id: 1, sex: FEMALE, weight: 10.00 location type: 1,Location: 2,favourite Food: TREE_SAP, Name: Paul, Species: Macau, Id: 2, sex: MALE, weight: 5.00 location type: 1,Location: 1,favourite Food: NUTS]
+ 
+____________________________________________________________________________________________________ 
+Functionality 7
+6. Move Sanctuary.Monkey from Enclosure to Isolation. 
+
+Moving Sanctuary.Monkey 4 from  enclosure 2 to  Isolation
+
+Name: Donald, Species: Langur, Id: 3, sex: MALE, weight: 18.00 location type: 2,Location: 1,favourite Food: FRUITS
+Name: Jack, Species: Langur, Id: 4, sex: MALE, weight: 30.00 location type: 1,Location: 4,favourite Food: INSECTS
+Name: John, Species: Langur, Id: 0, sex: MALE, weight: 20.00 location type: 1,Location: 3,favourite Food: FRUITS
+Name: Tom, Species: Langur, Id: 5, sex: MALE, weight: 24.00 location type: 2,Location: 2,favourite Food: FRUITS
+Name: Hower, Species: Macau, Id: 1, sex: FEMALE, weight: 10.00 location type: 1,Location: 2,favourite Food: TREE_SAP
+Name: Paul, Species: Macau, Id: 2, sex: MALE, weight: 5.00 location type: 1,Location: 1,favourite Food: NUTS
